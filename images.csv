@@ -1,0 +1,12 @@
+alpine:3.7
+centos:7
+centos:6
+centos:5
+ubuntu:19.04
+ubuntu:18.10
+ubuntu:18.04
+ubuntu:16.04
+ubuntu:14.04
+debian:buster
+debian:stretch
+debian:jessie
